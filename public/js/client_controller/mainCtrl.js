@@ -1,3 +1,3 @@
-/**
- * Created by shiqing on 16/4/17.
- */
+myApp.controller('mainCtrl',['$scope', function ($scope) {
+    $scope.myVar = "Hello Angular";
+}]);
